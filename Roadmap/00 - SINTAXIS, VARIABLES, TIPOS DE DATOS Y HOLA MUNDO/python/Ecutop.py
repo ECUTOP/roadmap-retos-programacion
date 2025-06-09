@@ -1,4 +1,4 @@
-# https://python.org
+# https://www.python.org
 
 # Comentario en una línea
 
@@ -18,4 +18,5 @@ my_variable = "Mi variable"
 my_variable = "Nuevo valor de mi variable"
 
 MY_CONSTANT = "Mi constante" # por convención
-MY_CONSTANT = "ASDFGHJKL"
+
+
